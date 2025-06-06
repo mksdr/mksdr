@@ -2,12 +2,12 @@
 - 👋 Hi, I’m **@mksdr**. Thank you for visiting my account.
 - 👀 I’m interested in Web Dev.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and Python.
-- 📫 Mail: s@yems.kr
+- 📫 Mail: wkcv@pm.me
 ### KOR
 - 👋 안녕하세요, **@엠케이에스디알**입니다. 제 계정에 방문해 주셔서 감사합니다.
 - 👀 웹 개발에 관심을 가지고 있습니다.
 - 🌱 현재 HTML, CSS, JavaScript, Python을 배우고 있습니다.
-- 📫 메일: s@yems.kr
+- 📫 메일: wkcv@pm.me
 
 <!---
 ENG
